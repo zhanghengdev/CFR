@@ -13,9 +13,9 @@ For more details, please refer to our [ICIP paper](https://arxiv.org/pdf/2009.12
 
 In this repository we provide the detection results of CFR model for [KAIST dataset](https://soonminhwang.github.io/rgbt-ped-detection/). 
 
-| **Annotation** | **Reasonable-aLL** | **Reasonable-day** | **Reasonable-night** | **Runtime(1080Ti)** |
-|:-------|:-----:|:-------:|:-------:|:-------:|
-| Sanitized | 5.96% | 7.77% | 2.4% | 50ms | [Google Drive]
+| **Reasonable-aLL** | **Reasonable-day** | **Reasonable-night** | **Runtime(1080Ti)** |
+|:-----:|:-------:|:-------:|:-------:|
+| 5.96% | 7.77% | 2.4% | 50ms | [Google Drive]
 
 
 Note that the result reported in the paper was the averaged performance after repeating the experiments for ten times. The provided result belongs to one of the ten models. It is very close but slightly better than the averaged performance reported in the paper.
